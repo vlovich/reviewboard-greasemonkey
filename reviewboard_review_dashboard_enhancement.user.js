@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name Reviewboard Dashboard Enhancement
-// @namespace https://github.comcom/vlovich
+// @namespace https://github.com/vlovich
 // @description Make the dashboard links available from reviews
 // @include https://review.mydomain.com/*
 // ==/UserScript==
